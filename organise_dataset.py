@@ -72,8 +72,8 @@ class OrganiseDataset:
         Args:
             gaussian_blur_radius_list (List[int]): List of Gaussian blur radii used
             for preprocessing images. Defaults to [3, 5, 7].
-            min_contour_area (int): Minimum contour area threshold. Defaults to 1000.
-            min_score (int): Minimum score threshold. Defaults to 15000.
+            min_contour_area (int): Minimum contour area threshold. Defaults to 2000.
+            min_score (int): Minimum score threshold. Defaults to 25000.
         Returns:
             None
         Raises:
