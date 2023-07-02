@@ -14,3 +14,5 @@
 - add correct path to `Test_folder_path` variable in the file before testing the unit test
    > ```shell 
    > $ python -m unittest unit_test.py
+###  Answers
+- The Answers to the questions are in `Answers.pdf` file.
