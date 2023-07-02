@@ -1,7 +1,7 @@
 # Kopernikus-Test-Task
  This repository contains the solution of Programming challenge for Perception team member in Kopernikus.
 ## Solution
- The solution for this task is in `organise_dataset.py` file.
+ The solution for programming task is in `organise_dataset.py` file.
 ## Requirements
 
 - Refer to `requirement.sh` for environment specifications.
