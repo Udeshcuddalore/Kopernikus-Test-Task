@@ -3,7 +3,7 @@
 ## Requirements
 
 - Refer to `requirement.sh` for environment specifications.
-- While creating environment in `conda` the requirements can be directly installed from `requirement.sh`
+- If creating environment in `conda` the requirements can be directly installed from `requirement.sh`
 
 ###  To run the program
    > ```shell 
